@@ -1,4 +1,7 @@
-# 🚀 AkezhanMessenger Preview
+> ⚠️ **WORK IN PROGRESS (WIP)**  
+> This project is currently in early development and is **not functional yet**.  
+> Features, database schemas, and code structure are subject to rapid change.
+> # 🚀 AkezhanMessenger Preview
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android-green.svg)
